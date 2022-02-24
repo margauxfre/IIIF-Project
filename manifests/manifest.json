@@ -1,0 +1,135 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "The history of the Bibliotheque Lavisse through images.",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This IIIF manifest contains four images linked to the Bibliotheque Lavisse, located in Sorbonne.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://f43c5bbe-e1a0-4364-b924-6e1a6f343042",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://7edb12c3-10d8-45c5-9d2b-8beddf04e4be",
+      "@type" : "sc:Canvas",
+      "label" : "Sorbonne' second floor plan at the beginning of the twentieth century",
+      "height" : 4725,
+      "width" : "8008",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://af6867bd-b923-4457-b128-7dafd36c9426",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0028/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0028",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", [ ] ]
+          },
+          "height" : 4725,
+          "width" : 8008
+        },
+        "on" : "http://7edb12c3-10d8-45c5-9d2b-8beddf04e4be"
+      } ],
+      "related" : [ {
+        "@id" : "Bibliographic reference : Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Bibliotheque Numerique de la Sorbonne, https://nubis.univ-paris1.fr/ark:/15733/16s2",
+        "label" : "",
+        "format" : ""
+      } ]
+    }, {
+      "@id" : "http://6161afb7-8daa-4f58-b628-946f8f07c760",
+      "@type" : "sc:Canvas",
+      "label" : "Title page of a book with the Bibliotheque Dumont stamp.",
+      "height" : 4725,
+      "width" : 8008,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4636a4d3-e1d3-4e89-9fb3-3cba0471291b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0028/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0028",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", [ ] ]
+          },
+          "height" : 4725,
+          "width" : 8008
+        },
+        "on" : "http://6161afb7-8daa-4f58-b628-946f8f07c760"
+      } ],
+      "related" : {
+        "@id" : "Bibliographic reference : Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Bibliotheque Numerique de la Sorbonne, https://nubis.univ-paris1.fr/ark:/15733/16s2",
+        "label" : "",
+        "format" : ""
+      }
+    }, {
+      "@id" : "http://96601d5d-73c0-4281-9872-77a8b1457191",
+      "@type" : "sc:Canvas",
+      "label" : "Title page of a book with the Bibliotheque Lavisse stamp",
+      "height" : 4032,
+      "width" : 3024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e73c2199-f384-47e2-9eae-80152e6ac44f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-5757_202202/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-5757_202202",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4032,
+          "width" : 3024
+        },
+        "on" : "http://96601d5d-73c0-4281-9872-77a8b1457191"
+      } ],
+      "related" : "Bibliographic reference : Florence M. Greir Evans, M.A, Ph. D., The Principal Secretary of State. A Survey of the Office from 1558 to 1680, Manchester, The University Press, 1923."
+    }, {
+      "@id" : "http://0d5fbae2-b181-4418-9828-b07f0283cfe3",
+      "@type" : "sc:Canvas",
+      "label" : "Title page of a book with the Bibliothèque Dumont stamp.",
+      "height" : 4032,
+      "width" : 3024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://65361b77-2f83-4a05-b0a5-961bd9197dcd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-5737/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-5737",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4032,
+          "width" : 3024
+        },
+        "on" : "http://0d5fbae2-b181-4418-9828-b07f0283cfe3"
+      } ],
+      "related" : "Bibliographic reference : Vicomte de Guichen, La crise d'Orient de 1839 à 1841 et l'Europe, Paris, Émile-Paul Frères, 1921"
+    } ]
+  } ],
+  "structures" : [ ]
+}
