@@ -22,10 +22,10 @@
       "@type" : "sc:Canvas",
       "label" : "Sorbonne' second floor plan at the beginning of the twentieth century",
       "height" : 4725,
-      "width" : "8008",
+      "width" : 8104,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://af6867bd-b923-4457-b128-7dafd36c9426",
+        "@id" : "http://2b8f59a8-b445-41fd-a69c-60f723a94831",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -38,7 +38,7 @@
             "profile" : [ "http://iiif.io/api/image/2/level2.json", [ ] ]
           },
           "height" : 4725,
-          "width" : 8008
+          "width" : 8104
         },
         "on" : "http://7edb12c3-10d8-45c5-9d2b-8beddf04e4be"
       } ],
@@ -50,7 +50,7 @@
     }, {
       "@id" : "http://6161afb7-8daa-4f58-b628-946f8f07c760",
       "@type" : "sc:Canvas",
-      "label" : "Title page of a book with the Bibliotheque Dumont stamp.",
+      "label" : "Sorbonne' third floor plan at the beginning of the twentieth century",
       "height" : 4725,
       "width" : 8008,
       "images" : [ {
