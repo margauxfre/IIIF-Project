@@ -17,7 +17,7 @@
 		"@language": "en"
 	}],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "Photographs taken by Margaux Faure and numerisations made by the Bibliothèque interuniversitaire de la Sorbonne",
+	"attribution": "Photographs taken by Margaux Faure and digitization made by the Bibliothèque interuniversitaire de la Sorbonne",
 	"sequences": [{
 		"@id": "http://f43c5bbe-e1a0-4364-b924-6e1a6f343042",
 		"@type": "sc:Sequence",
@@ -31,6 +31,28 @@
 			"label": "Sorbonne' second floor plan at the beginning of the twentieth century",
 			"height": 4725,
 			"width": 8104,
+			"metadata" : [ {
+        "label" : "Repository",
+        "value" : "Bibliothèque interuniversitaire de la Sorbonne"
+      }, {
+        "label" : "Sources Images",
+        "value" : ["Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Paris, Imprimerie nationale, 1903, p. 27.", "https://nubis.univ-paris1.fr/ark:/15733/16s2"]
+      },
+	{
+        "label" : "Title",
+        "value" : "Plan du deuxième étage"
+      }, {
+        "label" : "Date",
+        "value" : "1903"
+      }, 
+	{
+        "label" : "Author",
+        "value" : "Nénot, Henri-Paul (1853-1934)"
+      }, {
+        "label" : "Type",
+        "value" : "Map"
+      }
+				     ],
 			"images": [{
 				"@context": "http://iiif.io/api/presentation/2/context.json",
 				"@id": "http://2b8f59a8-b445-41fd-a69c-60f723a94831",
