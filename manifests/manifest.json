@@ -1,4 +1,3 @@
-
 {"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json",
 	"@type": "sc:Manifest",
@@ -17,7 +16,7 @@
 		"@language": "en"
 	}],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "Photographs taken by Margaux Faure and digitization made by the Bibliothèque interuniversitaire de la Sorbonne",
+	"attribution": "Photographs taken by Margaux Faure and digitization made by the Bibliothèque interuniversitaire de la Sorbonne.",
 	"sequences": [{
 		"@id": "http://f43c5bbe-e1a0-4364-b924-6e1a6f343042",
 		"@type": "sc:Sequence",
@@ -36,7 +35,7 @@
         "value" : "Bibliothèque interuniversitaire de la Sorbonne"
       }, {
         "label" : "Sources Images",
-        "value" : ["Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Paris, Imprimerie nationale, 1903, p. 27.", "https://nubis.univ-paris1.fr/ark:/15733/16s2"]
+        "value" : "https://nubis.univ-paris1.fr/ark:/15733/16s2"
       },
 	{
         "label" : "Title",
@@ -51,6 +50,10 @@
       }, {
         "label" : "Type",
         "value" : "Map"
+      },
+	{
+        "label" : "Relation",
+        "value" : "Contained in Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Paris, Imprimerie nationale, 1903, p. 27."
       }
 				     ],
 			"images": [{
@@ -88,7 +91,7 @@
         "value" : "Bibliothèque interuniversitaire de la Sorbonne"
       }, {
         "label" : "Sources Images",
-        "value" : ["Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Paris, Imprimerie nationale, 1903, p. 28.", "https://nubis.univ-paris1.fr/ark:/15733/16s2"]
+        "value" : "https://nubis.univ-paris1.fr/ark:/15733/16s2"
       },
 	{
         "label" : "Title",
@@ -103,6 +106,9 @@
       }, {
         "label" : "Type",
         "value" : "Map"
+      },{
+        "label" : "Relation",
+        "value" : "Contained in Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Paris, Imprimerie nationale, 1903, p. 28."
       }
 				     ],
 			"images": [{
