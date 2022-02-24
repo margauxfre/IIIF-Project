@@ -29,12 +29,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0028/full/full/0/default.jpg",
+          "@id" : "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0027/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0028",
+            "@id" : "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0027",
             "profile" : [ "http://iiif.io/api/image/2/level2.json", [ ] ]
           },
           "height" : 4725,
