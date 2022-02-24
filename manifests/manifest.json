@@ -83,6 +83,28 @@
 			"label": "Sorbonne' third floor plan at the beginning of the twentieth century",
 			"height": 4725,
 			"width": 8008,
+			"metadata" : [ {
+        "label" : "Repository",
+        "value" : "Bibliothèque interuniversitaire de la Sorbonne"
+      }, {
+        "label" : "Sources Images",
+        "value" : ["Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Paris, Imprimerie nationale, 1903, p. 28.", "https://nubis.univ-paris1.fr/ark:/15733/16s2"]
+      },
+	{
+        "label" : "Title",
+        "value" : "Plan du troisième étage"
+      }, {
+        "label" : "Date",
+        "value" : "1903"
+      }, 
+	{
+        "label" : "Author",
+        "value" : "Nénot, Henri-Paul (1853-1934)"
+      }, {
+        "label" : "Type",
+        "value" : "Map"
+      }
+				     ],
 			"images": [{
 				"@context": "http://iiif.io/api/presentation/2/context.json",
 				"@id": "http://4636a4d3-e1d3-4e89-9fb3-3cba0471291b",
@@ -113,6 +135,36 @@
 			"label": "Title page of a book with the Bibliotheque Lavisse stamp",
 			"height": 4032,
 			"width": 3024,
+			"metadata" : [ {
+        "label" : "Repository",
+        "value" : "Bibliothèque Lavisse"
+      }, {
+        "label" : "Sources Images",
+        "value" : "Personal photograph"
+      },{
+        "label" : "Shelfmark",
+        "value" : "HM GB 37"
+      },
+	{
+        "label" : "Title",
+        "value" : "The Principal Secretary of State. A Survey of the Office from 1558 to 1680"
+      }, 
+	{
+	"label": "Publisher",
+      	"value": "The University Press (Manchester)"
+	},
+	{
+        "label" : "Date",
+        "value" : "1923"
+      }, 
+	{
+        "label" : "Author",
+        "value" : "Evans, Florence M. Greir"
+      }, {
+        "label" : "Type",
+        "value" : "Book"
+      }
+				     ],
 			"images": [{
 				"@context": "http://iiif.io/api/presentation/2/context.json",
 				"@id": "http://e73c2199-f384-47e2-9eae-80152e6ac44f",
@@ -139,6 +191,36 @@
 			"label": "Title page of a book with the Bibliothèque Dumont stamp.",
 			"height": 4032,
 			"width": 3024,
+			"metadata" : [ {
+        "label" : "Repository",
+        "value" : "Bibliothèque Lavisse"
+      }, {
+        "label" : "Sources Images",
+        "value" : "Personal photograph"
+      },{
+        "label" : "Shelfmark",
+        "value" : "HMG 216"
+      },
+	{
+        "label" : "Title",
+        "value" : "La crise d'Orient de 1839 à 1841 et l'Europe"
+      }, 
+	{
+	"label": "Publisher",
+      	"value": "Émile-Paul Frères (Paris)"
+	},
+	{
+        "label" : "Date",
+        "value" : "1921"
+      }, 
+	{
+        "label" : "Author",
+        "value" : "Guichen, Eugène (1869-1938 ; vicomte de)"
+      }, {
+        "label" : "Type",
+        "value" : "Book"
+      }
+				     ],
 			"images": [{
 				"@context": "http://iiif.io/api/presentation/2/context.json",
 				"@id": "http://65361b77-2f83-4a05-b0a5-961bd9197dcd",
