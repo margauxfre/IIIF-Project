@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://margauxfre.github.io/IIIF-Project/annotations/db4382e5f88cbee2a3c5a681fd7cb1a8.json" ],
+  "@id" : "https://margauxfre.github.io/IIIF-Project/annotations/collection.json",
+  "label" : "All annotations loaded in margauxfre/IIIF-Project project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
