@@ -1,260 +1,260 @@
-{"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json",
-	"@type": "sc:Manifest",
-	"label": "The history of the Bibliotheque Lavisse through images.",
-	"metadata": [{
-			"label": "Context Title",
-			"value": "IIIF Assignement for the master's degree 'Technologies numériques appliquées à l'histoire'"
-		},
-		{
-			"label": "Collection",
-			"value": "Bibliothèque interuniversitaire de la Sorbonne and personal photographs"
-		}
-	],
-	"description": [{
-		"@value": "This IIIF manifest contains four images linked to the Bibliotheque Lavisse, located in Sorbonne.",
-		"@language": "en"
-	}],
-	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "Photographs taken by Margaux Faure and digitization made by the Bibliothèque interuniversitaire de la Sorbonne.",
-	"sequences": [{
-		"@id": "http://f43c5bbe-e1a0-4364-b924-6e1a6f343042",
-		"@type": "sc:Sequence",
-		"label": [{
-			"@value": "Normal Sequence",
-			"@language": "en"
-		}],
-		"canvases": [{
-			"@id": "http://7edb12c3-10d8-45c5-9d2b-8beddf04e4be",
-			"@type": "sc:Canvas",
-			"label": "Sorbonne' second floor plan at the beginning of the twentieth century",
-			"height": 4725,
-			"width": 8104,
-			"metadata" : [ {
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://dev.gdmrdigital.com/manifests/1245635613/92535159/manifests.json",
+  "@type" : "sc:Manifest",
+  "label" : "The history of the Bibliotheque Lavisse through images.",
+  "metadata" : [ {
+    "label" : "Context Title",
+    "value" : "IIIF Assignement for the master's degree 'Technologies numériques appliquées à l'histoire'"
+  }, {
+    "label" : "Collection",
+    "value" : "Bibliothèque interuniversitaire de la Sorbonne and personal photographs"
+  } ],
+  "description" : [ {
+    "@value" : "This IIIF manifest contains four images linked to the Bibliotheque Lavisse, located in Sorbonne.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Photographs taken by Margaux Faure and digitization made by the Bibliothèque interuniversitaire de la Sorbonne.",
+  "sequences" : [ {
+    "@id" : "http://f43c5bbe-e1a0-4364-b924-6e1a6f343042",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://7edb12c3-10d8-45c5-9d2b-8beddf04e4be",
+      "@type" : "sc:Canvas",
+      "label" : "Sorbonne' second floor plan at the beginning of the twentieth century",
+      "height" : 4725,
+      "width" : 8104,
+      "metadata" : [ {
         "label" : "Repository",
         "value" : "Bibliothèque interuniversitaire de la Sorbonne"
       }, {
         "label" : "Sources Images",
         "value" : "https://nubis.univ-paris1.fr/ark:/15733/16s2"
-      },
-	{
+      }, {
         "label" : "Title",
         "value" : "Plan du deuxième étage"
       }, {
         "label" : "Date",
         "value" : "1903"
-      }, 
-	{
+      }, {
         "label" : "Author",
         "value" : "Nénot, Henri-Paul (1853-1934)"
       }, {
         "label" : "Type",
         "value" : "Map"
-      },
-	{
+      }, {
         "label" : "Relation",
         "value" : "Contained in Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Paris, Imprimerie nationale, 1903, p. 27."
-      }
-				     ],
-			"images": [{
-				"@context": "http://iiif.io/api/presentation/2/context.json",
-				"@id": "http://2b8f59a8-b445-41fd-a69c-60f723a94831",
-				"@type": "oa:Annotation",
-				"motivation": "sc:painting",
-				"resource": {
-					"@id": "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0027/full/full/0/default.jpg",
-					"@type": "dctypes:Image",
-					"format": "image/jpeg",
-					"service": {
-						"@context": "http://iiif.io/api/image/2/context.json",
-						"@id": "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0027",
-						"profile": ["http://iiif.io/api/image/2/level2.json", []]
-					},
-					"height": 4725,
-					"width": 8104
-				},
-				"on": "http://7edb12c3-10d8-45c5-9d2b-8beddf04e4be"
-			}],
-			"related": [{
-				"@id": "Bibliographic reference : Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Bibliotheque Numerique de la Sorbonne, https://nubis.univ-paris1.fr/ark:/15733/16s2",
-				"label": "",
-				"format": ""
-			}],
-			"otherContent": [
-    {
-        "@id": "https://margauxfre.github.io/IIIF-Project/annotations/db4382e5f88cbee2a3c5a681fd7cb1a8.json",
-        "@type": "sc:AnnotationList",
-        "label": "My annotations"
-    }
-]
-		}, {
-			"@id": "http://6161afb7-8daa-4f58-b628-946f8f07c760",
-			"@type": "sc:Canvas",
-			"label": "Sorbonne' third floor plan at the beginning of the twentieth century",
-			"height": 4725,
-			"width": 8008,
-			"metadata" : [ {
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2b8f59a8-b445-41fd-a69c-60f723a94831",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0027/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0027",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", [ ] ]
+          },
+          "height" : 4725,
+          "width" : 8104
+        },
+        "on" : "http://7edb12c3-10d8-45c5-9d2b-8beddf04e4be"
+      } ],
+      "related" : [ {
+        "@id" : "Bibliographic reference : Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Bibliotheque Numerique de la Sorbonne, https://nubis.univ-paris1.fr/ark:/15733/16s2",
+        "label" : "",
+        "format" : ""
+      } ],
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/92535159/db4382e5f88cbee2a3c5a681fd7cb1a8.json",
+        "label" : "Annotations for canvas Sorbonne' second floor plan at the beginning of the twentieth century"
+      } ]
+    }, {
+      "@id" : "http://6161afb7-8daa-4f58-b628-946f8f07c760",
+      "@type" : "sc:Canvas",
+      "label" : "Sorbonne' third floor plan at the beginning of the twentieth century",
+      "height" : 4725,
+      "width" : 8008,
+      "metadata" : [ {
         "label" : "Repository",
         "value" : "Bibliothèque interuniversitaire de la Sorbonne"
       }, {
         "label" : "Sources Images",
         "value" : "https://nubis.univ-paris1.fr/ark:/15733/16s2"
-      },
-	{
+      }, {
         "label" : "Title",
         "value" : "Plan du troisième étage"
       }, {
         "label" : "Date",
         "value" : "1903"
-      }, 
-	{
+      }, {
         "label" : "Author",
         "value" : "Nénot, Henri-Paul (1853-1934)"
       }, {
         "label" : "Type",
         "value" : "Map"
-      },{
+      }, {
         "label" : "Relation",
         "value" : "Contained in Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Paris, Imprimerie nationale, 1903, p. 28."
-      }
-				     ],
-			"images": [{
-				"@context": "http://iiif.io/api/presentation/2/context.json",
-				"@id": "http://4636a4d3-e1d3-4e89-9fb3-3cba0471291b",
-				"@type": "oa:Annotation",
-				"motivation": "sc:painting",
-				"resource": {
-					"@id": "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0028/full/full/0/default.jpg",
-					"@type": "dctypes:Image",
-					"format": "image/jpeg",
-					"service": {
-						"@context": "http://iiif.io/api/image/2/context.json",
-						"@id": "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0028",
-						"profile": ["http://iiif.io/api/image/2/level2.json", []]
-					},
-					"height": 4725,
-					"width": 8008
-				},
-				"on": "http://6161afb7-8daa-4f58-b628-946f8f07c760"
-			}],
-			"related": {
-				"@id": "Bibliographic reference : Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Bibliotheque Numerique de la Sorbonne, https://nubis.univ-paris1.fr/ark:/15733/16s2",
-				"label": "",
-				"format": ""
-			}
-		}, {
-			"@id": "http://96601d5d-73c0-4281-9872-77a8b1457191",
-			"@type": "sc:Canvas",
-			"label": "Title page of a book with the Bibliotheque Lavisse stamp",
-			"height": 4032,
-			"width": 3024,
-			"metadata" : [ {
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4636a4d3-e1d3-4e89-9fb3-3cba0471291b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0028/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0028",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", [ ] ]
+          },
+          "height" : 4725,
+          "width" : 8008
+        },
+        "on" : "http://6161afb7-8daa-4f58-b628-946f8f07c760"
+      } ],
+      "related" : {
+        "@id" : "Bibliographic reference : Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Bibliotheque Numerique de la Sorbonne, https://nubis.univ-paris1.fr/ark:/15733/16s2",
+        "label" : "",
+        "format" : ""
+      },
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/92535159/91e090c4e1f90d41c7d69e696d06bcc4.json",
+        "label" : "Annotations for canvas Sorbonne' third floor plan at the beginning of the twentieth century"
+      } ]
+    }, {
+      "@id" : "http://96601d5d-73c0-4281-9872-77a8b1457191",
+      "@type" : "sc:Canvas",
+      "label" : "Title page of a book with the Bibliotheque Lavisse stamp",
+      "height" : 4032,
+      "width" : 3024,
+      "metadata" : [ {
         "label" : "Repository",
         "value" : "Bibliothèque Lavisse"
       }, {
         "label" : "Sources Images",
         "value" : "Personal photograph"
-      },{
+      }, {
         "label" : "Shelfmark",
         "value" : "HM GB 37"
-      },
-	{
+      }, {
         "label" : "Title",
         "value" : "The Principal Secretary of State. A Survey of the Office from 1558 to 1680"
-      }, 
-	{
-	"label": "Publisher",
-      	"value": "The University Press (Manchester)"
-	},
-	{
+      }, {
+        "label" : "Publisher",
+        "value" : "The University Press (Manchester)"
+      }, {
         "label" : "Date",
         "value" : "1923"
-      }, 
-	{
+      }, {
         "label" : "Author",
         "value" : "Evans, Florence M. Greir"
       }, {
         "label" : "Type",
         "value" : "Book"
-      }
-				     ],
-			"images": [{
-				"@context": "http://iiif.io/api/presentation/2/context.json",
-				"@id": "http://e73c2199-f384-47e2-9eae-80152e6ac44f",
-				"@type": "oa:Annotation",
-				"motivation": "sc:painting",
-				"resource": {
-					"@id": "https://iiif.archivelab.org/iiif/img-5757_202202/full/full/0/default.jpg",
-					"@type": "dctypes:Image",
-					"format": "image/jpeg",
-					"service": {
-						"@context": "http://iiif.io/api/image/2/context.json",
-						"@id": "https://iiif.archivelab.org/iiif/img-5757_202202",
-						"profile": ["http://iiif.io/api/image/2/level2.json"]
-					},
-					"height": 4032,
-					"width": 3024
-				},
-				"on": "http://96601d5d-73c0-4281-9872-77a8b1457191"
-			}],
-			"related": "Bibliographic reference : Florence M. Greir Evans, M.A, Ph. D., The Principal Secretary of State. A Survey of the Office from 1558 to 1680, Manchester, The University Press, 1923."
-		}, {
-			"@id": "http://0d5fbae2-b181-4418-9828-b07f0283cfe3",
-			"@type": "sc:Canvas",
-			"label": "Title page of a book with the Bibliothèque Dumont stamp.",
-			"height": 4032,
-			"width": 3024,
-			"metadata" : [ {
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e73c2199-f384-47e2-9eae-80152e6ac44f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-5757_202202/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-5757_202202",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4032,
+          "width" : 3024
+        },
+        "on" : "http://96601d5d-73c0-4281-9872-77a8b1457191"
+      } ],
+      "related" : "Bibliographic reference : Florence M. Greir Evans, M.A, Ph. D., The Principal Secretary of State. A Survey of the Office from 1558 to 1680, Manchester, The University Press, 1923.",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/92535159/111c60bc913aff0b3eb2ae72bb88f3fd.json",
+        "label" : "Annotations for canvas Title page of a book with the Bibliotheque Lavisse stamp"
+      } ]
+    }, {
+      "@id" : "http://0d5fbae2-b181-4418-9828-b07f0283cfe3",
+      "@type" : "sc:Canvas",
+      "label" : "Title page of a book with the Bibliothèque Dumont stamp.",
+      "height" : 4032,
+      "width" : 3024,
+      "metadata" : [ {
         "label" : "Repository",
         "value" : "Bibliothèque Lavisse"
       }, {
         "label" : "Sources Images",
         "value" : "Personal photograph"
-      },{
+      }, {
         "label" : "Shelfmark",
         "value" : "HMG 216"
-      },
-	{
+      }, {
         "label" : "Title",
         "value" : "La crise d'Orient de 1839 à 1841 et l'Europe"
-      }, 
-	{
-	"label": "Publisher",
-      	"value": "Émile-Paul Frères (Paris)"
-	},
-	{
+      }, {
+        "label" : "Publisher",
+        "value" : "Émile-Paul Frères (Paris)"
+      }, {
         "label" : "Date",
         "value" : "1921"
-      }, 
-	{
+      }, {
         "label" : "Author",
         "value" : "Guichen, Eugène (1869-1938 ; vicomte de)"
       }, {
         "label" : "Type",
         "value" : "Book"
-      }
-				     ],
-			"images": [{
-				"@context": "http://iiif.io/api/presentation/2/context.json",
-				"@id": "http://65361b77-2f83-4a05-b0a5-961bd9197dcd",
-				"@type": "oa:Annotation",
-				"motivation": "sc:painting",
-				"resource": {
-					"@id": "https://iiif.archivelab.org/iiif/img-5737/full/full/0/default.jpg",
-					"@type": "dctypes:Image",
-					"format": "image/jpeg",
-					"service": {
-						"@context": "http://iiif.io/api/image/2/context.json",
-						"@id": "https://iiif.archivelab.org/iiif/img-5737",
-						"profile": ["http://iiif.io/api/image/2/level2.json"]
-					},
-					"height": 4032,
-					"width": 3024
-				},
-				"on": "http://0d5fbae2-b181-4418-9828-b07f0283cfe3"
-			}],
-			"related": "Bibliographic reference : Vicomte de Guichen, La crise d'Orient de 1839 à 1841 et l'Europe, Paris, Émile-Paul Frères, 1921"
-		}]
-	}],
-	"structures": []
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://65361b77-2f83-4a05-b0a5-961bd9197dcd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-5737/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-5737",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4032,
+          "width" : 3024
+        },
+        "on" : "http://0d5fbae2-b181-4418-9828-b07f0283cfe3"
+      } ],
+      "related" : "Bibliographic reference : Vicomte de Guichen, La crise d'Orient de 1839 à 1841 et l'Europe, Paris, Émile-Paul Frères, 1921",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/92535159/058a6b3a74049d08ec70c2787d483e4d.json",
+        "label" : "Annotations for canvas Title page of a book with the Bibliothèque Dumont stamp."
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/92535159/manifests/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }
 }
