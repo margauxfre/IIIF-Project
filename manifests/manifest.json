@@ -79,7 +79,14 @@
 				"@id": "Bibliographic reference : Henri-Paul Nenot, \"Monographie de la nouvelle Sorbonne\", Bibliotheque Numerique de la Sorbonne, https://nubis.univ-paris1.fr/ark:/15733/16s2",
 				"label": "",
 				"format": ""
-			}]
+			}],
+			"otherContent": [
+    {
+        "@id": "https://margauxfre.github.io/IIIF-Project/annotations/db4382e5f88cbee2a3c5a681fd7cb1a8.json",
+        "@type": "sc:AnnotationList",
+        "label": "My annotations"
+    }
+]
 		}, {
 			"@id": "http://6161afb7-8daa-4f58-b628-946f8f07c760",
 			"@type": "sc:Canvas",
