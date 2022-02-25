@@ -1,0 +1,162 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Albert Dumont",
+      "@type" : "oa:Tag",
+      "chars" : "Albert Dumont"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Library",
+      "@type" : "oa:Tag",
+      "chars" : "Library"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sorbonne",
+      "@type" : "oa:Tag",
+      "chars" : "Sorbonne"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Biblioth&egrave;que DumontSee a photograph of the library room at&nbsp;<a href=\"https://nubis.univ-paris1.fr/ark:/15733/qh7\" target=\"_blank\" rel=\"noopener\">https://nubis.univ-paris1.fr/ark:/15733/qh7",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Biblioth&egrave;que Dumont<br />See a photograph of the library room at&nbsp;<a href=\"https://nubis.univ-paris1.fr/ark:/15733/qh7\" target=\"_blank\" rel=\"noopener\">https://nubis.univ-paris1.fr/ark:/15733/qh7</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T11:17:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645787830368",
+    "dcterms:modified" : "2022-02-25T11:17:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5721,1345,268,428"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5989.74881,1773.5485h-134.23779v0h-134.23779v-214.05025v-214.05025h134.23779h134.23779v214.05025z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d8130630-3594-4eaa-8ee7-b419628ed194\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7edb12c3-10d8-45c5-9d2b-8beddf04e4be"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Transcription : \"Monographie de la nouvelle Sorbonne\"\nTitle of the book.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Transcription : \"Monographie de la nouvelle Sorbonne\"</p>\n<p>Title of the book.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T11:14:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645787678243",
+    "dcterms:modified" : "2022-02-25T11:14:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=78,2804,42,981"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M119.93571,3784.70939h-21.17013v0h-21.17013v-490.43785v-490.43785h21.17013h21.17013v490.43785z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_bc58aa6b-400b-4f27-88b5-0e40e4a8ef84\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7edb12c3-10d8-45c5-9d2b-8beddf04e4be"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Number 15. Developped as \"Biblioth&egrave;que Albert Dumont\" in the legend of the plan.See&nbsp;<a href=\"https://nubis.univ-paris1.fr/files/medium/BIS_00_00479_0029.jpg\" target=\"_blank\" rel=\"noopener\">https://nubis.univ-paris1.fr/files/medium/BIS_00_00479_0029.jpg",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Number 15. Developped as \"Biblioth&egrave;que Albert Dumont\" in the legend of the plan.<br />See&nbsp;<a href=\"https://nubis.univ-paris1.fr/files/medium/BIS_00_00479_0029.jpg\" target=\"_blank\" rel=\"noopener\">https://nubis.univ-paris1.fr/files/medium/BIS_00_00479_0029.jpg</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T11:19:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645787965625",
+    "dcterms:modified" : "2022-02-25T11:19:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5839,1490,42,52"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5881.12314,1541.53747h-21.17107v0h-21.17107v-25.81153v-25.81153h21.17107h21.17107v25.81153z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d1c1a5e4-25e4-4280-9b7e-0423e5583cfa\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7edb12c3-10d8-45c5-9d2b-8beddf04e4be"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "plan",
+      "@type" : "oa:Tag",
+      "chars" : "plan"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "second floor",
+      "@type" : "oa:Tag",
+      "chars" : "second floor"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sorbonne",
+      "@type" : "oa:Tag",
+      "chars" : "sorbonne"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Transcription :Plan du deuxi&egrave;me &eacute;tage\nThis title indicates that the current map represents the second floor of the Sorbonne.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Transcription :<br />Plan du deuxi&egrave;me &eacute;tage</p>\n<p>This title indicates that the current map represents the second floor of the Sorbonne.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-24T17:05:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645722318826",
+    "dcterms:modified" : "2022-02-24T17:05:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=167,1117,145,2361"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M312.47811,3477.61909h-72.55517v0h-72.55517v-1180.47986v-1180.47986h72.55517h72.55517v1180.47986z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_746aa32f-5bd8-4966-8b7f-c57d9846e6c7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7edb12c3-10d8-45c5-9d2b-8beddf04e4be"
+    } ]
+  } ],
+  "@id" : "https://margauxfre.github.io/IIIF-Project/annotations/db4382e5f88cbee2a3c5a681fd7cb1a8.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
