@@ -1,0 +1,294 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "stamp",
+      "@type" : "oa:Tag",
+      "chars" : "stamp"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "bibliotheque lavisse",
+      "@type" : "oa:Tag",
+      "chars" : "bibliotheque lavisse"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Biblioth&egrave;que Lavisse stamp\nTranslation : \"Facult&eacute; des Lettres de Paris. Biblioth&egrave;que Ernest Lavisse\"",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Biblioth&egrave;que Lavisse stamp</p>\n<p>Translation : \"Facult&eacute; des Lettres de Paris. Biblioth&egrave;que Ernest Lavisse\"</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T13:17:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645795056625",
+    "dcterms:modified" : "2022-02-25T13:17:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1229,2105,669,625"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1800.04209,2637.9437c-61.79326,52.47124 -148.96267,91.54479 -236.5545,91.49811v0v0c-87.59183,-0.04668 -163.899,-36.59936 -236.5545,-91.49811c-72.65549,-54.89875 -100.89576,-138.55384 -97.98408,-220.89597c2.91168,-82.34213 36.97531,-163.37131 97.98408,-220.89597c61.00877,-57.52466 148.96267,-91.54479 236.5545,-91.49811c87.59183,0.04668 174.82158,34.16018 236.5545,91.49811c61.73292,57.33793 97.96899,137.90028 97.98408,220.89597c0.01509,82.9957 -36.19082,168.42473 -97.98408,220.89597z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_6febb2f3-10bd-42a5-9344-c6d963ccfe05\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://96601d5d-73c0-4281-9872-77a8b1457191"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bar-code checkout system",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bar-code checkout system</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T13:52:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645797120651",
+    "dcterms:modified" : "2022-02-25T13:52:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1160,3516,871,320"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2031.83012,3836.20053h-435.7338v0h-435.7338v-159.90193v-159.90193h435.7338h435.7338v159.90193z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_66dae6ca-15cb-45ac-8b07-91060b8d8cd5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://96601d5d-73c0-4281-9872-77a8b1457191"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Shelfmark of the copy owned by the library.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Shelfmark of the copy owned by the library.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "shelfmark",
+      "@type" : "oa:Tag",
+      "chars" : "shelfmark"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T13:18:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645795138537",
+    "dcterms:modified" : "2022-02-25T14:01:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1965,289,605,210"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2570.28245,498.55673h-302.64181v0h-302.64181v-104.84697v-104.84697h302.64181h302.64181v104.84697z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_9bd5590d-d319-4535-b502-cf36d17f55dd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"42.36778\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://96601d5d-73c0-4281-9872-77a8b1457191"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Deleted. Might be an old shelfmark.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Deleted. Might be an old shelfmark.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T13:26:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645795593081",
+    "dcterms:modified" : "2022-02-25T13:26:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1735,3078,594,440"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2328.52393,3517.60944h-296.96653v0h-296.96653v-219.81448v-219.81448h296.96653h296.96653v219.81448z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1d44b2d1-bd7d-4c46-aa88-a960e64b0777\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://96601d5d-73c0-4281-9872-77a8b1457191"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Publisher's informations",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Publisher's informations</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T13:21:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645795270528",
+    "dcterms:modified" : "2022-02-25T13:21:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=718,2905,1493,174"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2211.46565,3078.42907h-746.57674v0h-746.57674v-86.79371v-86.79371h746.57674h746.57674v86.79371z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0cfb456d-9726-4717-9192-21a64a253f89\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://96601d5d-73c0-4281-9872-77a8b1457191"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Publication date",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Publication date</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T13:21:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645795282110",
+    "dcterms:modified" : "2022-02-25T13:21:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1389,3086,174,88"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1562.32428,3174.20403h-86.79371v0h-86.79371v-44.22706v-44.22706h86.79371h86.79371v44.22706z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a5944dee-6c9f-4c2f-880a-0bf5a828406c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://96601d5d-73c0-4281-9872-77a8b1457191"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Title of the book",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Title of the book</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "secretary of state",
+      "@type" : "oa:Tag",
+      "chars" : "secretary of state"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "early modern",
+      "@type" : "oa:Tag",
+      "chars" : "early modern"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T13:19:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645795162036",
+    "dcterms:modified" : "2022-02-25T13:20:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=722,344,1422,566"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2144.07837,910.75472h-710.92717v0h-710.92717v-283.13237v-283.13237h710.92717h710.92717v283.13237z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_cadda92f-e1d3-4844-afdb-0337720d34db\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"19.15499\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://96601d5d-73c0-4281-9872-77a8b1457191"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Author of the book",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Author of the book</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Florence Greir Evans",
+      "@type" : "oa:Tag",
+      "chars" : "Florence Greir Evans"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T13:19:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645795175798",
+    "dcterms:modified" : "2022-02-25T13:19:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=720,981,1471,487"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M720.22402,980.98969h735.27466v0h735.27466v243.62989v243.62989h-735.27466h-735.27466v-243.62989z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_c673b5c7-9da3-4988-bece-fc27b9da9ed8\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"38.30998\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://96601d5d-73c0-4281-9872-77a8b1457191"
+    } ]
+  } ],
+  "@id" : "https://margauxfre.github.io/IIIF-Project/annotations/111c60bc913aff0b3eb2ae72bb88f3fd.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
