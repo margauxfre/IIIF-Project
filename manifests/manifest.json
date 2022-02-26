@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://dev.gdmrdigital.com/manifests/1245635613/92535159/manifests.json",
   "@type" : "sc:Manifest",
-  "label" : "The history of the Bibliotheque Lavisse through images.",
+  "label" : "Searching for the history of the Bibliotheque Lavisse through images.",
   "metadata" : [ {
     "label" : "Context Title",
     "value" : "IIIF Assignement for the master's degree 'Technologies numériques appliquées à l'histoire'"
