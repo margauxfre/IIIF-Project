@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://margauxfre.github.io/IIIF-Project/annotations/db4382e5f88cbee2a3c5a681fd7cb1a8.json", "https://margauxfre.github.io/IIIF-Project/annotations/058a6b3a74049d08ec70c2787d483e4d.json" ],
+  "otherContent" : [ "https://margauxfre.github.io/IIIF-Project/annotations/db4382e5f88cbee2a3c5a681fd7cb1a8.json" ],
   "@id" : "https://margauxfre.github.io/IIIF-Project/annotations/collection.json",
   "label" : "All annotations loaded in margauxfre/IIIF-Project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
