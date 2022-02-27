@@ -35,10 +35,10 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Transcription : \"Plan du troisi&egrave;me &eacute;tage\"\n<span style=\"caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">This title indicates that the current map represents the third floor of the Sorbonne.",
+      "http://dev.llgc.org.uk/sas/full_text" : "Transcription : \"Plan du troisi&egrave;me &eacute;tage\"\n<span style=\"caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">This title indicates that the current plan represents the third floor of the Sorbonne.",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Transcription : \"Plan du troisi&egrave;me &eacute;tage\"</p>\n<p><span style=\"caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">This title indicates that the current map represents the third floor of the Sorbonne.</span></p>"
+      "chars" : "<p>Transcription : \"Plan du troisi&egrave;me &eacute;tage\"</p>\n<p><span style=\"caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">This title indicates that the current plan represents the third floor of the Sorbonne.</span></p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
