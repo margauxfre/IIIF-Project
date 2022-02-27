@@ -68,10 +68,10 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Additional writing meaning that the book belongs to the Biblioth&egrave;que Lavisse and not to the Biblioth&egrave;que Dumont anymore.\nTranslation : \"Biblioth&egrave;que Ernest Lavisse. Histoire. 3e &eacute;tage\"",
+      "http://dev.llgc.org.uk/sas/full_text" : "Additional writing meaning that the book belongs to the Biblioth&egrave;que Lavisse and not to the Biblioth&egrave;que Dumont anymore.\nTranscription : \"Biblioth&egrave;que Ernest Lavisse. Histoire. 3e &eacute;tage\"",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Additional writing meaning that the book belongs to the Biblioth&egrave;que Lavisse and not to the Biblioth&egrave;que Dumont anymore.</p>\n<p>Translation : \"Biblioth&egrave;que Ernest Lavisse. Histoire. 3e &eacute;tage\"</p>"
+      "chars" : "<p>Additional writing meaning that the book belongs to the Biblioth&egrave;que Lavisse and not to the Biblioth&egrave;que Dumont anymore.</p>\n<p>Transcription : \"Biblioth&egrave;que Ernest Lavisse. Histoire. 3e &eacute;tage\"</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
