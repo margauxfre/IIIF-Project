@@ -146,10 +146,10 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Publisher's informations",
+      "http://dev.llgc.org.uk/sas/full_text" : "Publisher informations",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Publisher's informations</p>"
+      "chars" : "<p>Publisher informations</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
