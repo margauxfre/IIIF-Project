@@ -77,7 +77,7 @@
       } ],
       "otherContent" : [ {
         "@type" : "sc:AnnotationList",
-        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/92535159/db4382e5f88cbee2a3c5a681fd7cb1a8.json",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/annotations/db4382e5f88cbee2a3c5a681fd7cb1a8.json",
         "label" : "Annotations for canvas Sorbonne' second floor plan at the beginning of the twentieth century"
       } ]
     }, {
@@ -134,7 +134,7 @@
       },
       "otherContent" : [ {
         "@type" : "sc:AnnotationList",
-        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/92535159/91e090c4e1f90d41c7d69e696d06bcc4.json",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/annotations/91e090c4e1f90d41c7d69e696d06bcc4.json",
         "label" : "Annotations for canvas Sorbonne's third floor plan at the beginning of the twentieth century"
       } ]
     }, {
@@ -190,7 +190,7 @@
       "related" : "Bibliographic reference : Florence M. Greir Evans, M.A, Ph. D., The Principal Secretary of State. A Survey of the Office from 1558 to 1680, Manchester, The University Press, 1923.",
       "otherContent" : [ {
         "@type" : "sc:AnnotationList",
-        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/92535159/111c60bc913aff0b3eb2ae72bb88f3fd.json",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/annotations/111c60bc913aff0b3eb2ae72bb88f3fd.json",
         "label" : "Annotations for canvas Title page of a book with the Bibliotheque Lavisse stamp"
       } ]
     }, {
@@ -246,7 +246,7 @@
       "related" : "Bibliographic reference : Vicomte de Guichen, La crise d'Orient de 1839 à 1841 et l'Europe, Paris, Émile-Paul Frères, 1921",
       "otherContent" : [ {
         "@type" : "sc:AnnotationList",
-        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/92535159/058a6b3a74049d08ec70c2787d483e4d.json",
+        "@id" : "https://margauxfre.github.io/IIIF-Project/annotations/058a6b3a74049d08ec70c2787d483e4d.json",
         "label" : "Annotations for canvas Title page of a book with the Bibliothèque Dumont stamp."
       } ]
     } ]
