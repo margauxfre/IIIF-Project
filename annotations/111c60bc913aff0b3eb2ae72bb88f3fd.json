@@ -2,10 +2,10 @@
   "@type" : "sc:AnnotationList",
   "resources" : [ {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Biblioth&egrave;que Lavisse stamp confirming that the book was acquired by this library.\nTranslation : \"Facult&eacute; des Lettres de Paris. Biblioth&egrave;que Ernest Lavisse\"",
+      "http://dev.llgc.org.uk/sas/full_text" : "Biblioth&egrave;que Lavisse stamp confirming that the book was acquired by this library.\nAcquisition date : 1923 \nTranslation : \"Facult&eacute; des Lettres de Paris. Biblioth&egrave;que Ernest Lavisse\"",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Biblioth&egrave;que Lavisse stamp confirming that the book was acquired by this library.</p>\n<p>Translation : \"Facult&eacute; des Lettres de Paris. Biblioth&egrave;que Ernest Lavisse\"</p>"
+      "chars" : "<p>Biblioth&egrave;que Lavisse stamp confirming that the book was acquired by this library.</p>\n<p>Acquisition date : 1923</p>\n<p>Translation : \"Facult&eacute; des Lettres de Paris. Biblioth&egrave;que Ernest Lavisse\"</p>"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "stamp",
       "@type" : "oa:Tag",
