@@ -83,7 +83,7 @@
     }, {
       "@id" : "http://6161afb7-8daa-4f58-b628-946f8f07c760",
       "@type" : "sc:Canvas",
-      "label" : "Sorbonne' third floor plan at the beginning of the twentieth century",
+      "label" : "Sorbonne's third floor plan at the beginning of the twentieth century",
       "height" : 4725,
       "width" : 8008,
       "metadata" : [ {
@@ -135,7 +135,7 @@
       "otherContent" : [ {
         "@type" : "sc:AnnotationList",
         "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/92535159/91e090c4e1f90d41c7d69e696d06bcc4.json",
-        "label" : "Annotations for canvas Sorbonne' third floor plan at the beginning of the twentieth century"
+        "label" : "Annotations for canvas Sorbonne's third floor plan at the beginning of the twentieth century"
       } ]
     }, {
       "@id" : "http://96601d5d-73c0-4281-9872-77a8b1457191",
