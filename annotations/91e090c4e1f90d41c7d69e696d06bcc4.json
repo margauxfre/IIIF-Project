@@ -86,10 +86,10 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Actual location of the Biblioth&egrave;que Lavisse\nPhotograph of the library room :<img src=\"https://iiif.archivelab.org/iiif/bibliotheque-lavisse/full/200/270/default.jpg\" alt=\"Biblioth&egrave;que Lavisse\" width=\"100\" height=\"133\" />",
+      "http://dev.llgc.org.uk/sas/full_text" : "Current location of the Biblioth&egrave;que Lavisse\nPhotograph of the library room :<img src=\"https://iiif.archivelab.org/iiif/bibliotheque-lavisse/full/200/270/default.jpg\" alt=\"Biblioth&egrave;que Lavisse\" width=\"100\" height=\"133\" />",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Actual location of the Biblioth&egrave;que Lavisse</p>\n<p>Photograph of the library room :<img src=\"https://iiif.archivelab.org/iiif/bibliotheque-lavisse/full/200/270/default.jpg\" alt=\"Biblioth&egrave;que Lavisse\" width=\"100\" height=\"133\" /></p>"
+      "chars" : "<p>Current location of the Biblioth&egrave;que Lavisse</p>\n<p>Photograph of the library room :<img src=\"https://iiif.archivelab.org/iiif/bibliotheque-lavisse/full/200/270/default.jpg\" alt=\"Biblioth&egrave;que Lavisse\" width=\"100\" height=\"133\" /></p>"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "library",
       "@type" : "oa:Tag",
