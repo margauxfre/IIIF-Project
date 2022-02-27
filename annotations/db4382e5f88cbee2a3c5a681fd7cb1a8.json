@@ -125,10 +125,10 @@
       "@type" : "oa:Tag",
       "chars" : "sorbonne"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Transcription :Plan du deuxi&egrave;me &eacute;tage\nThis title indicates that the current map represents the second floor of the Sorbonne.",
+      "http://dev.llgc.org.uk/sas/full_text" : "Transcription :Plan du deuxi&egrave;me &eacute;tage\nThis title indicates that the current plan represents the second floor of the Sorbonne.",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Transcription :<br />Plan du deuxi&egrave;me &eacute;tage</p>\n<p>This title indicates that the current map represents the second floor of the Sorbonne.</p>"
+      "chars" : "<p>Transcription :<br />Plan du deuxi&egrave;me &eacute;tage</p>\n<p>This title indicates that the current plan represents the second floor of the Sorbonne.</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
