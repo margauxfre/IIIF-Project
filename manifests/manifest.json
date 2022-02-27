@@ -33,7 +33,7 @@
         "label" : "Repository",
         "value" : "Bibliothèque interuniversitaire de la Sorbonne"
       }, {
-        "label" : "Sources Images",
+        "label" : "Source Image",
         "value" : "https://nubis.univ-paris1.fr/ark:/15733/16s2"
       }, {
         "label" : "Title",
@@ -90,7 +90,7 @@
         "label" : "Repository",
         "value" : "Bibliothèque interuniversitaire de la Sorbonne"
       }, {
-        "label" : "Sources Images",
+        "label" : "Source Image",
         "value" : "https://nubis.univ-paris1.fr/ark:/15733/16s2"
       }, {
         "label" : "Title",
@@ -147,7 +147,7 @@
         "label" : "Repository",
         "value" : "Bibliothèque Lavisse"
       }, {
-        "label" : "Sources Images",
+        "label" : "Source Image",
         "value" : "Personal photograph"
       }, {
         "label" : "Shelfmark",
@@ -203,7 +203,7 @@
         "label" : "Repository",
         "value" : "Bibliothèque Lavisse"
       }, {
-        "label" : "Sources Images",
+        "label" : "Source Image",
         "value" : "Personal photograph"
       }, {
         "label" : "Shelfmark",
