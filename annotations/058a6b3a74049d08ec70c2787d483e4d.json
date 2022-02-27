@@ -68,10 +68,18 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Additional writing meaning that the book belongs to the Biblioth&egrave;que Lavisse and not to the Biblioth&egrave;que Dumont anymore.\nTranscription : \"Biblioth&egrave;que Ernest Lavisse. Histoire. 3e &eacute;tage\"",
+      "http://dev.llgc.org.uk/sas/full_text" : "Additional writing meaning that the book belongs to the Biblioth&egrave;que Lavisse and not to the Biblioth&egrave;que Dumont anymore.\nTranslation : \"Biblioth&egrave;que Ernest Lavisse. Histoire. 3e &eacute;tage\"",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Additional writing meaning that the book belongs to the Biblioth&egrave;que Lavisse and not to the Biblioth&egrave;que Dumont anymore.</p>\n<p>Transcription : \"Biblioth&egrave;que Ernest Lavisse. Histoire. 3e &eacute;tage\"</p>"
+      "chars" : "<p>Additional writing meaning that the book belongs to the Biblioth&egrave;que Lavisse and not to the Biblioth&egrave;que Dumont anymore.</p>\n<p>Translation : \"Biblioth&egrave;que Ernest Lavisse. Histoire. 3e &eacute;tage\"</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "bibliotheque lavisse",
+      "@type" : "oa:Tag",
+      "chars" : "bibliotheque lavisse"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "additional writing",
+      "@type" : "oa:Tag",
+      "chars" : "additional writing"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
@@ -233,10 +241,18 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding: 2px 2px 2px 15px; caret-color: #212529; color: #212529; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px;\">Biblioth&egrave;que Dumont stamp confirming that the book was owned by the library.\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding: 2px 2px 2px 15px; caret-color: #212529; color: #212529; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px;\">\nAcquisition date : 1921 \nTranscription : \"Facult&eacute; des Lettres de Paris. Biblioth&egrave;que Albert Dumont. Histoire\"",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding: 2px 2px 2px 15px; caret-color: #212529; color: #212529; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px;\">Biblioth&egrave;que Dumont stamp confirming that the book was owned by the library.\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding: 2px 2px 2px 15px; caret-color: #212529; color: #212529; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px;\">Translation : \"Facult&eacute; des Lettres de Paris. Biblioth&egrave;que Albert Dumont. Histoire\"",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding: 2px 2px 2px 15px; caret-color: #212529; color: #212529; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px;\">Biblioth&egrave;que Dumont stamp confirming that the book was owned by the library.</p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding: 2px 2px 2px 15px; caret-color: #212529; color: #212529; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px;\">\n<p>Acquisition date : 1921</p>\nTranscription : \"Facult&eacute; des Lettres de Paris. Biblioth&egrave;que Albert Dumont. Histoire\"</p>"
+      "chars" : "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding: 2px 2px 2px 15px; caret-color: #212529; color: #212529; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px;\">Biblioth&egrave;que Dumont stamp confirming that the book was owned by the library.</p>\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding: 2px 2px 2px 15px; caret-color: #212529; color: #212529; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; font-size: 16px;\">Translation : \"Facult&eacute; des Lettres de Paris. Biblioth&egrave;que Albert Dumont. Histoire\"</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "bibliotheque dumont",
+      "@type" : "oa:Tag",
+      "chars" : "bibliotheque dumont"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "stamp",
+      "@type" : "oa:Tag",
+      "chars" : "stamp"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
