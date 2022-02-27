@@ -2,10 +2,10 @@
   "@type" : "sc:AnnotationList",
   "resources" : [ {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Number 25. Developped as \"Biblioth&egrave;que de l'histoire\" in the legend of the plan.See&nbsp;<a href=\"https://nubis.univ-paris1.fr/files/medium/BIS_00_00479_0029.jpg\" target=\"_blank\" rel=\"noopener\">https://nubis.univ-paris1.fr/files/medium/BIS_00_00479_0029.jpg",
+      "http://dev.llgc.org.uk/sas/full_text" : "Number 25. Developped as \"Biblioth&egrave;que de l'histoire\" in the legend of the plan.See&nbsp;<a href=\"https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0029/full/3336,/0/default.jpg?download=true\" target=\"_blank\" rel=\"noopener\">https://nubis.univ-paris1.fr/files/medium/BIS_00_00479_0029.jpg",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Number 25. Developped as \"Biblioth&egrave;que de l'histoire\" in the legend of the plan.<br />See&nbsp;<a href=\"https://nubis.univ-paris1.fr/files/medium/BIS_00_00479_0029.jpg\" target=\"_blank\" rel=\"noopener\">https://nubis.univ-paris1.fr/files/medium/BIS_00_00479_0029.jpg</a></p>"
+      "chars" : "<p>Number 25. Developped as \"Biblioth&egrave;que de l'histoire\" in the legend of the plan.<br />See&nbsp;<a href=\"https://nubis.univ-paris1.fr/iiif/2/BIS_00_00479_0029/full/3336,/0/default.jpg?download=true\" target=\"_blank\" rel=\"noopener\">https://nubis.univ-paris1.fr/files/medium/BIS_00_00479_0029.jpg</a></p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
