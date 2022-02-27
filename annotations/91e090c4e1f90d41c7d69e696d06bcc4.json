@@ -39,6 +39,18 @@
       "@type" : "dctypes:Text",
       "format" : "text/html",
       "chars" : "<p>Transcription : \"Plan du troisi&egrave;me &eacute;tage\"</p>\n<p><span style=\"caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">This title indicates that the current plan represents the third floor of the Sorbonne.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sorbonne",
+      "@type" : "oa:Tag",
+      "chars" : "sorbonne"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "third floor",
+      "@type" : "oa:Tag",
+      "chars" : "third floor"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "plan",
+      "@type" : "oa:Tag",
+      "chars" : "plan"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
@@ -99,9 +111,9 @@
       "@type" : "oa:Tag",
       "chars" : "Sorbonne"
     }, {
-      "http://dev.llgc.org.uk/sas/full_text" : "Bibliothèque Lavisse",
+      "http://dev.llgc.org.uk/sas/full_text" : "bibliotheque lavisse",
       "@type" : "oa:Tag",
-      "chars" : "Bibliothèque Lavisse"
+      "chars" : "bibliotheque lavisse"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92535159",
