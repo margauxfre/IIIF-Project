@@ -2,7 +2,7 @@
   "@type" : "sc:AnnotationList",
   "resources" : [ {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Albert Dumont",
+      "http://dev.llgc.org.uk/sas/full_text" : "bibliotheque Dumont",
       "@type" : "oa:Tag",
       "chars" : "Albert Dumont"
     }, {
