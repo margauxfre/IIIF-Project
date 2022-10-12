@@ -57,7 +57,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://nubis.univ-paris1.fr/files/large/ark_15733_3p8/ark_15733_16s2/BIS_00_00479_0027.jpg",
+          "@id" : "https://nubis.univ-paris1.fr/iiif/463377/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
@@ -114,7 +114,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://nubis.univ-paris1.fr/files/large/ark_15733_3p8/ark_15733_16s2/BIS_00_00479_0028.jpg",
+          "@id" : "https://nubis.univ-paris1.fr/iiif/463378/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
